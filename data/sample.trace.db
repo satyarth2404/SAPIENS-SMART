@@ -1,0 +1,6 @@
+2022-07-06 11:28:25 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "INCIDENTS" not found (this database is empty); SQL statement:
+select incident0_.id as id1_0_, incident0_.component as componen2_0_, incident0_.customer as customer3_0_, incident0_.description as descript4_0_, incident0_.irt as irt5_0_, incident0_.priority as priority6_0_, incident0_.processor as processo7_0_, incident0_.status as status8_0_ from incidents incident0_ [42104-214]
+2022-07-06 11:29:22 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "INCIDENTS" not found (this database is empty); SQL statement:
+select incident0_.id as id1_0_, incident0_.component as componen2_0_, incident0_.customer as customer3_0_, incident0_.description as descript4_0_, incident0_.irt as irt5_0_, incident0_.priority as priority6_0_, incident0_.processor as processo7_0_, incident0_.status as status8_0_ from incidents incident0_ [42104-214]
